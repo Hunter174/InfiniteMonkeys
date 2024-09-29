@@ -1,4 +1,6 @@
 ## How many Monkeys are needed to write Shakespear?
+**Based on the typewriter theorem**
+
 In this project I attempt to answer this question with genetic based models. 
 Where each generation represents a number of learners or "monkeys".
 
